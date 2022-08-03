@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wallpaper Application</string>
+    <string name="search">Search</string>
+    <string name="search_button">Search Button</string>
+    <string name="category">Category</string>
+    <string name="set_as_wallpaper">Set as Wallpaper</string>
+    <string name="wallpaper">Wallpaper</string>
+</resources>
